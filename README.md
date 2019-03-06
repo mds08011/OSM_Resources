@@ -1,5 +1,8 @@
 # OSM_Resources
 
+### OSM Statistics and Analysis
+* How did you contribute (HDYC): http://hdyc.neis-one.org
+
 ### Phone Apps
 * StreetComplete
 
