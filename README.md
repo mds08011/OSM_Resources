@@ -2,6 +2,7 @@
 
 ### OSM Statistics and Analysis
 * How did you contribute (HDYC): http://hdyc.neis-one.org
+* Meet Your Mapper: https://mym.rtijn.org/
 
 ### Phone Apps
 * StreetComplete
@@ -15,3 +16,6 @@
   * Internal tutorials used by Mapbox
  * Mapbox Workhops/Presentations:  https://github.com/mapbox/workshops
 
+### Maps for Specific Uses
+* https://opentopomap.org
+* http://toposm.ahlzen.com/
