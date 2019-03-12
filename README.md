@@ -19,3 +19,6 @@
 ### Maps for Specific Uses
 * https://opentopomap.org
 * http://toposm.ahlzen.com/
+
+### Data Sources
+US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
