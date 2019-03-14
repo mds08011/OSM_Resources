@@ -7,6 +7,9 @@
 ### Phone Apps
 * StreetComplete
 
+### Map Data Tools
+* Changeset reverter: http://revert.osmz.ru/
+
 ### Routing (Navigation) Software
 * BRouter: http://brouter.de/brouter-web/
 * Open Source Routing Machine (OSRM): http://map.project-osrm.org/
