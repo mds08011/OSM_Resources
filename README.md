@@ -10,6 +10,9 @@
 ### Map Data Tools
 * Changeset reverter: http://revert.osmz.ru/
 
+### Name Suggestion Index
+* Summary of brand info: https://osmlab.github.io/name-suggestion-index/brands/index.html
+
 ### Routing (Navigation) Software
 * BRouter: http://brouter.de/brouter-web/
 * Open Source Routing Machine (OSRM): http://map.project-osrm.org/
