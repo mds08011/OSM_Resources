@@ -7,11 +7,13 @@
 ### Phone Apps
 * StreetComplete
 
-### Map Data Tools
+### Editing Tools (other than iD and JOSM)
 * Changeset reverter: http://revert.osmz.ru/
+* Parking Lanes Editor: https://zlant.github.io/parking-lanes/
 
 ### Name Suggestion Index
-* Summary of brand info: https://osmlab.github.io/name-suggestion-index/brands/index.html
+* Brand Index: https://osmlab.github.io/name-suggestion-index/brands/index.html
+* Adding Missing Brands: https://github.com/osmlab/name-suggestion-index/blob/master/CONTRIBUTING.md#convenience_store--add-missing-brands
 
 ### Routing (Navigation) Software
 * BRouter: http://brouter.de/brouter-web/
@@ -23,8 +25,9 @@
  * Mapbox Workhops/Presentations:  https://github.com/mapbox/workshops
 
 ### Maps for Specific Uses
-* https://opentopomap.org
-* http://toposm.ahlzen.com/
+* Topgraphic: https://opentopomap.org
+* Topgraphic: http://toposm.ahlzen.com/
+* Parking Lanes: https://zlant.github.io/parking-lanes/
 
 ### Data Sources
-US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
+* US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
