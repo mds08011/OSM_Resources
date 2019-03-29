@@ -3,6 +3,7 @@
 ### OSM Statistics and Analysis
 * How did you contribute (HDYC): http://hdyc.neis-one.org
 * Meet Your Mapper: https://mym.rtijn.org/
+* https://simon04.dev.openstreetmap.org/whodidit/
 
 ### Phone Apps
 * StreetComplete
