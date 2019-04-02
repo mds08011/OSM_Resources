@@ -24,7 +24,8 @@
 * Mapbox team mapping guides:  https://labs.mapbox.com/mapping/
   * Internal tutorials used by Mapbox
  * Mapbox Workhops/Presentations:  https://github.com/mapbox/workshops
-
+ * Mapbox Studio Tutorials: https://www.mapbox.com/videos/
+ 
 ### Maps for Specific Uses
 * Topgraphic: https://opentopomap.org
 * Topgraphic: http://toposm.ahlzen.com/
