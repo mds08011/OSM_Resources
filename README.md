@@ -16,6 +16,10 @@
 * OSM Microtasks: https://ent8r.github.io/osm-microtasks/
   * "A website for performing micro-tasks to improve the OpenStreetMap" [URLs, Phone Numbers, Fax]
 
+
+### Field Mapping Tools
+* Field Papers: http://fieldpapers.org/
+
 ### Name Suggestion Index
 * Brand Index: https://osmlab.github.io/name-suggestion-index/brands/index.html
 * Adding Missing Brands: https://github.com/osmlab/name-suggestion-index/blob/master/CONTRIBUTING.md#convenience_store--add-missing-brands
