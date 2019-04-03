@@ -11,6 +11,10 @@
 ### Editing Tools (other than iD and JOSM)
 * Changeset reverter: http://revert.osmz.ru/
 * Parking Lanes Editor: https://zlant.github.io/parking-lanes/
+* NotesReview: https://ent8r.github.io/NotesReview/
+  * "An interface for searching OSM notes with a specific keyword"
+* OSM Microtasks: https://ent8r.github.io/osm-microtasks/
+  * "A website for performing micro-tasks to improve the OpenStreetMap" [URLs, Phone Numbers, Fax]
 
 ### Name Suggestion Index
 * Brand Index: https://osmlab.github.io/name-suggestion-index/brands/index.html
