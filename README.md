@@ -15,6 +15,7 @@
   * "An interface for searching OSM notes with a specific keyword"
 * OSM Microtasks: https://ent8r.github.io/osm-microtasks/
   * "A website for performing micro-tasks to improve the OpenStreetMap" [URLs, Phone Numbers, Fax]
+* iD Editor Development Build: http://preview.ideditor.com/master
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
