@@ -34,6 +34,12 @@
  * Mapbox Workhops/Presentations:  https://github.com/mapbox/workshops
  * Mapbox Studio Tutorials: https://www.mapbox.com/videos/
  * OSM Tool Section App: https://whatosm.pavie.info/
+ * Brewery Tagging
+   * https://wiki.openstreetmap.org/wiki/BC_Craft_Breweries
+   * https://help.openstreetmap.org/questions/63899/how-should-i-tag-craft-breweries-with-tasting-rooms
+     * Taproom nodes with food: `amenity=pub`+`microbrewery=yes`
+     * Taproom nodes without food: `amenity=bar`+`microbrewery=yes`If the establishment takes up an entire building then also tag the building with `craft=brewery`.  
+     * If packaged beer is available for takeout, optionally add `shop=alcohol`.
  
 ### Maps for Specific Uses
 * Topgraphic: https://opentopomap.org
