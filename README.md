@@ -38,7 +38,8 @@
    * https://wiki.openstreetmap.org/wiki/BC_Craft_Breweries
    * https://help.openstreetmap.org/questions/63899/how-should-i-tag-craft-breweries-with-tasting-rooms
      * Taproom nodes with food: `amenity=pub`+`microbrewery=yes`
-     * Taproom nodes without food: `amenity=bar`+`microbrewery=yes`If the establishment takes up an entire building then also tag the building with `craft=brewery`.  
+     * Taproom nodes without food: `amenity=bar`+`microbrewery=yes`
+     * If the establishment takes up an entire building then also tag the building with `craft=brewery`.  
      * If packaged beer is available for takeout, optionally add `shop=alcohol`.
  
 ### Maps for Specific Uses
