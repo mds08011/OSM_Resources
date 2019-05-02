@@ -1,4 +1,4 @@
-##### Linux Upload
+#### Linux Upload
 ```
 cd /path_to_scripts/osc_tools
 
@@ -13,7 +13,7 @@ python osc_tools.py upload -p ~/OSC_seqences
 
 ```
 
-##### Windows Upload
+#### Windows Upload
 Switch to C Drive:
 
 `C:`
