@@ -17,3 +17,20 @@ for vLayer in iface.mapCanvas().layers():
         vLayer.crs(), "ESRI Shapefile" )
 ```
 6. Press Enter a couple of times.
+
+###ALT
+```
+from qgis.core import *
+import os
+pathToFile = "S:\\pathway\\"
+trs = QgsCoordinateReferenceSystem()
+trs.createFromId(31370)
+suffix = "_Lambert1972_Versie2016-01-04"
+prefix = "Transect_Vuursalamander_"
+layers = iface.legendInterface().layers()
+for layer in layers:
+    newName = prefix + layer.name() + suffix + ".shp"
+    ret = QgsVectorFileWriter.writeAsVectorFormat(layer,pathToFile + newName,'utf-8',trs,'ESRI Shapefile')
+    if ret == QgsVectorFileWriter.NoError:
+        print newName + " saved to " + pathToFile + "!"
+```
