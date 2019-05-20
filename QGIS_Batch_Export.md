@@ -4,7 +4,7 @@
 
 3. Write the following line, editing the right hand side to match the full path to your folder (make sure you include the trailing slash/backslash):
 ```
-myDir = '\\Bwe-five\Malcolm\OSM\Process\Bing_Building_Footprints\Hawaii\SHP\'
+myDir = '\\bwe-five\users\msmith\Malcolm\OSM\Process\Bing_Building_Footprints\Hawaii\SHP\'
 ```
 4. Press Enter.
 
