@@ -16,5 +16,6 @@ for vLayer in iface.mapCanvas().layers():
         myDir + vLayer.name() + ".shp", "utf-8", 
         vLayer.crs(), "ESRI Shapefile" )
 ```
+
 6. Press Enter a couple of times.
 
