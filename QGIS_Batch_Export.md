@@ -22,7 +22,7 @@ for vLayer in iface.mapCanvas().layers():
 ```
 from qgis.core import *
 import os
-pathToFile = "S:\\pathway\\"
+pathToFile = "\\bwe-five\\users\\msmith\\Malcolm\\OSM\\Process\\Bing_Building_Footprints\\Hawaii\SHP\\"
 trs = QgsCoordinateReferenceSystem()
 trs.createFromId(31370)
 suffix = "_Lambert1972_Versie2016-01-04"
