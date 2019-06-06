@@ -5,16 +5,8 @@
 
 
 #### Windows Upload Videos
-Switch to C Drive:
-```
-`C:`
 
-Change to script:
+Video Sampling and Upload
 
-`cd C:\Users\msmith\Desktop\upload-scripts-master\upload-scripts-master`
+`mapillary_tools sample_video --import_path "path/to/images" --video_import_path "path/to/videos" --video_sample_interval 0.5 --advanced `
 
-Upload all sequences in [path_to_folder]:
-
-`python osc_tools.py upload -p Z:\Malcolm\OSM\StreetLevelImagery\2019-06-04`
-
-```
