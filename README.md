@@ -16,6 +16,7 @@
 * OSM Microtasks: https://ent8r.github.io/osm-microtasks/
   * "A website for performing micro-tasks to improve the OpenStreetMap" [URLs, Phone Numbers, Fax]
 * iD Editor Development Build: http://preview.ideditor.com/master
+* Lane Visualizer: http://osm.mueschelsoft.de/cgi-bin/render.pl
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
