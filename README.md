@@ -49,8 +49,8 @@
 * Parking Lanes: https://zlant.github.io/parking-lanes/
 * OpenInfraMap: https://openinframap.org
 
-### Custom Maps
-* 
+### Custom Digital Maps
+* https://www.datawrapper.de/
 
 ### Data Sources
 * US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
