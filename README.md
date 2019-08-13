@@ -51,6 +51,7 @@
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
+* Wiki SVG Backgrounds: https://commons.wikimedia.org/wiki/Category:SVG_maps
 
 ### Data Sources
 * US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
