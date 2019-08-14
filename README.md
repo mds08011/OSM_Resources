@@ -17,6 +17,7 @@
   * "A website for performing micro-tasks to improve the OpenStreetMap" [URLs, Phone Numbers, Fax]
 * iD Editor Development Build: http://preview.ideditor.com/master
 * Lane Visualizer: http://osm.mueschelsoft.de/cgi-bin/render.pl
+* iD Indoor: https://wiki.openstreetmap.org/wiki/ID-indoor
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
@@ -50,6 +51,7 @@
 * OpenInfraMap: https://openinframap.org
 * Babylarte: https://babykarte.github.io
 * Coffeedex: https://tmcw.github.io/coffeedex
+* OpenLevelUp (indoor viewer): https://wiki.openstreetmap.org/wiki/OpenLevelUp
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
