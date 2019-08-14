@@ -49,6 +49,7 @@
 * Parking Lanes: https://zlant.github.io/parking-lanes/
 * OpenInfraMap: https://openinframap.org
 * Babylarte: https://babykarte.github.io
+* Coffeedex: https://tmcw.github.io/coffeedex
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
