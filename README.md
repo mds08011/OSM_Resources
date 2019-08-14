@@ -48,6 +48,7 @@
 * Topgraphic: http://toposm.ahlzen.com/
 * Parking Lanes: https://zlant.github.io/parking-lanes/
 * OpenInfraMap: https://openinframap.org
+* Babylarte: https://babykarte.github.io
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
