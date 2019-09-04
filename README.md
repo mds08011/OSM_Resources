@@ -19,6 +19,14 @@
 * Lane Visualizer: http://osm.mueschelsoft.de/cgi-bin/render.pl
 * iD Indoor: https://wiki.openstreetmap.org/wiki/ID-indoor
 
+### General Geospatial Tools
+* Geojson.net: https://geojson.net
+  * Convert between file types
+  * https://github.com/tmcw/geojson.net
+* Mapshaper: https://mapshaper.org/
+  * Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats, written in JavaScript.
+  * https://github.com/mbloch/mapshaper
+
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
 
