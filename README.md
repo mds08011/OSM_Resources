@@ -51,6 +51,7 @@
      * Taproom nodes without food: `amenity=bar`+`microbrewery=yes`
      * If the establishment takes up an entire building then also tag the building with `craft=brewery`.  
      * If packaged beer is available for takeout, optionally add `shop=alcohol`.
+ * Guidelines for pedestrian navigation: https://wiki.openstreetmap.org/wiki/Guidelines_for_pedestrian_navigation
  
 ### Maps for Specific Uses
 * Topgraphic: https://opentopomap.org
