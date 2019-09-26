@@ -18,6 +18,7 @@
 * iD Editor Development Build: http://preview.ideditor.com/master
 * Lane Visualizer: http://osm.mueschelsoft.de/cgi-bin/render.pl
 * iD Indoor: https://wiki.openstreetmap.org/wiki/ID-indoor
+* OSMInEdit: https://wiki.openstreetmap.org/wiki/OsmInEdit
 
 ### General Geospatial Tools
 * Geojson.net: https://geojson.net
