@@ -30,6 +30,7 @@
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
+* Print to PDF: https://maposmatic.osm-baustelle.de/
 
 ### Name Suggestion Index
 * Brand Index: https://osmlab.github.io/name-suggestion-index/brands/index.html
