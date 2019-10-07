@@ -62,6 +62,7 @@
 * Babylarte: https://babykarte.github.io
 * Coffeedex: https://tmcw.github.io/coffeedex
 * OpenLevelUp (indoor viewer): https://wiki.openstreetmap.org/wiki/OpenLevelUp
+* Cycling: https://www.cyclosm.org
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
