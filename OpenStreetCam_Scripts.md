@@ -24,6 +24,6 @@ Change to script:
 
 Upload all sequences in [path_to_folder]:
 
-`python osc_tools.py upload -p Z:\Malcolm\OSM\StreetLevelImagery\2019-06-04`
+`python osc_tools.py upload -p Z:\Malcolm\OSM\Photos\Phone\2019-10-07`
 
 #### GUI Uploader Bearing/Heading
