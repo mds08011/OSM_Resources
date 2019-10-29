@@ -19,6 +19,7 @@
 * Lane Visualizer: http://osm.mueschelsoft.de/cgi-bin/render.pl
 * iD Indoor: https://wiki.openstreetmap.org/wiki/ID-indoor
 * OSMInEdit: https://wiki.openstreetmap.org/wiki/OsmInEdit
+* POISM: https://poism.dev.openstreetmap.us/
 
 ### General Geospatial Tools
 * Geojson.net: https://geojson.net
