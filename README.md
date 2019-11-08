@@ -4,6 +4,7 @@
 * How did you contribute (HDYC): http://hdyc.neis-one.org
 * Meet Your Mapper: https://mym.rtijn.org/
 * https://simon04.dev.openstreetmap.org/whodidit/
+* Relation Analyzer: http://ra.osmsurround.org/
 
 ### Phone Apps
 * StreetComplete
