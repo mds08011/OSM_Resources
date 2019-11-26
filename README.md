@@ -21,6 +21,8 @@
 * iD Indoor: https://wiki.openstreetmap.org/wiki/ID-indoor
 * OSMInEdit: https://wiki.openstreetmap.org/wiki/OsmInEdit
 * POISM: https://poism.dev.openstreetmap.us/
+* Busy Hours: https://github.com/Jungle-Bus/Busy-Hours/blob/master/README.md
+ * Web tool to for editing of OpenStreetMap public transport hours.
 
 ### General Geospatial Tools
 * Geojson.net: https://geojson.net
