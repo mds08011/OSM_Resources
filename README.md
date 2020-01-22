@@ -68,6 +68,7 @@
 * Coffeedex: https://tmcw.github.io/coffeedex
 * OpenLevelUp (indoor viewer): https://wiki.openstreetmap.org/wiki/OpenLevelUp
 * Cycling: https://www.cyclosm.org
+* Render all roads in a city: https://anvaka.github.io/city-roads
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
