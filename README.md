@@ -76,6 +76,7 @@
 
 ### Data Sources
 * US Forest Service Data Extract Tool: https://data.fs.usda.gov/geodata/webapps/EDW_DataExtract/
+* Open vector data set: http://www.naturalearthdata.com/
 
 ### Organizations
 * Development Seed: https://www.developmentseed.org/
