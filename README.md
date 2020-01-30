@@ -69,6 +69,7 @@
 * OpenLevelUp (indoor viewer): https://wiki.openstreetmap.org/wiki/OpenLevelUp
 * Cycling: https://www.cyclosm.org
 * Render all roads in a city: https://anvaka.github.io/city-roads
+* View local mappers vs remote: https://disaster.ninja/live/#overlays=alert-shape,osm-users,bivariate_kontur_openstreetmap_mapping_activity;layer=default-style;id=GDACS_EQ_1204103_1293215;position=-117.15168776418454,32.735811927829076;zoom=11.627693246995356
 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
