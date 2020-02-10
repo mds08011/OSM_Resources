@@ -31,6 +31,7 @@
 * Mapshaper: https://mapshaper.org/
   * Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats, written in JavaScript.
   * https://github.com/mbloch/mapshaper
+  * Validate geojson files: http://www.geojsonlint.com/ (source: https://github.com/JasonSanford/geojsonlint.com)
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
