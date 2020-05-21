@@ -37,6 +37,7 @@
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
 * Print to PDF: https://maposmatic.osm-baustelle.de/
+* Wiki page of printing to paer options: https://wiki.openstreetmap.org/wiki/OSM_on_Paper
 
 ### Name Suggestion Index
 * Brand Index: https://osmlab.github.io/name-suggestion-index/brands/index.html
