@@ -33,6 +33,7 @@
   * Mapshaper is software for editing Shapefile, GeoJSON, TopoJSON, CSV and several other data formats, written in JavaScript.
   * https://github.com/mbloch/mapshaper
 * Validate geojson files: http://www.geojsonlint.com/ (source: https://github.com/JasonSanford/geojsonlint.com)
+* A port of OpenStreetMap Carto targeting client-side rendering with vector tiles: https://github.com/pnorman/openstreetmap-cartographic
 
 ### Field Mapping Tools
 * Field Papers: http://fieldpapers.org/
@@ -48,7 +49,6 @@
 * Open Source Routing Machine (OSRM): http://map.project-osrm.org/
 * Openrouteservice: https://openrouteservice.org/
   * Easy to use Isochrones (i.e. 15 walk radius)
-
 
 ### Documentation/Tutorials
 * Mapbox team mapping guides:  https://labs.mapbox.com/mapping/
