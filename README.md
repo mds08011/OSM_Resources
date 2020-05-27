@@ -49,6 +49,8 @@
 * Open Source Routing Machine (OSRM): http://map.project-osrm.org/
 * Openrouteservice: https://openrouteservice.org/
   * Easy to use Isochrones (i.e. 15 walk radius)
+* Trail Router: https://trailrouter.com/about/
+  * Trail Router helps you discover new running routes. Our routing algorithm prefers paths that go through parks, forests or by water, and avoids busy roads wherever possible.
 
 ### Documentation/Tutorials
 * Mapbox team mapping guides:  https://labs.mapbox.com/mapping/
@@ -76,7 +78,9 @@
 * Cycling: https://www.cyclosm.org
 * Render all roads in a city: https://anvaka.github.io/city-roads
 * View local mappers vs remote: https://disaster.ninja/live/#overlays=alert-shape,osm-users,bivariate_kontur_openstreetmap_mapping_activity;layer=default-style;id=GDACS_EQ_1204103_1293215;position=-117.15168776418454,32.735811927829076;zoom=11.627693246995356
-
+* Street Level POI Viewer: https://tankaru.github.io/Street-level-POI-Viewer/viewer.html
+ * Show POIs while viewing street images (mapillary, wikipedia, etc)
+ 
 ### Custom Digital Maps
 * https://www.datawrapper.de/
 * Wiki SVG Backgrounds: https://commons.wikimedia.org/wiki/Category:SVG_maps
@@ -91,3 +95,5 @@
 * http://www.argolabs.org/
 * https://sharedstreets.io/
 * MapGive: https://www.mapgive.state.gov
+
+* COllection of Mapillary tools: https://tankaru.github.io/mapillarytools.html
